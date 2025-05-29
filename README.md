@@ -68,7 +68,7 @@
 
 <h4 align="left">3. ᴘʀɪᴠᴀᴛᴇ ᴘᴀɴᴇʟs</h4>
 <p align="left">
-<a href='https://whatsapp.me/2348106182921' target="_blank"><img alt='Panel Pricings' src='https://img.shields.io/badge/-Buy%20Panels-blue?style=for-the-badge&logo=netlify&logoColor=white'/></a>
+<a href='https://wa.me/2348106182921' target="_blank"><img alt='Panel Pricings' src='https://img.shields.io/badge/-Buy%20Panels-blue?style=for-the-badge&logo=netlify&logoColor=white'/></a>
 </p>
 
 ---
