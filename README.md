@@ -42,13 +42,6 @@
   <img alt='Voltagefx12' src='https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000'/>
 </a>
 
-<a href="https://github.com/voltagefx12">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=𝐒𝐩𝐚𝐫𝐤+𝐌𝐝+𝐁𝐨𝐭;𝐒𝐭𝐚𝐫+𝐀𝐧𝐝+𝐅𝐨𝐫𝐤+𝐓𝐡𝐢𝐬+𝐑𝐞𝐩𝐨+♡;𝐅𝐨𝐥𝐥𝐨𝐰+𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬+𝐓𝐨+𝐒𝐮𝐩𝐩𝐨𝐫𝐭+𝐔𝐬+♡" alt="voltagefx12">
-  </a>
-<br>
-
-
-
 ---
 
 <h2 align="center">ᴅᴇᴘʟᴏʏᴍᴇɴᴛ sᴇᴄᴛɪᴏɴ</h2>
