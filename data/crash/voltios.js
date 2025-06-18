@@ -1,6 +1,6 @@
 // ./data/crash/voltios.js
 const chalk = require('chalk');
-const { proto } = require('@joanimi/baileys'); // <--- ADD THIS LINE (or other baileys imports needed by functions in this file)
+const { proto } = require('baileys'); // <--- ADD THIS LINE (or other baileys imports needed by functions in this file)
 // Note: IosCL does not directly use 'generateWAMessageFromContent', but it does use 'proto'.
 
 async function IosCL(zLoc, LordVoltage, ptcp = false) {
