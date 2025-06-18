@@ -1,4 +1,4 @@
-const { generateWAMessageFromContent } = require('@joanimi/baileys');
+const { generateWAMessageFromContent } = require('baileys');
 const fs = require('fs')
 
 async function protocolbug5(target, LordVoltage, mention = true) {
