@@ -1,6 +1,6 @@
 // ./data/crash/death.js
 
-const { prepareWAMessageMedia } = require('@joanimi/baileys'); // Make sure baileys is available for this function
+const { prepareWAMessageMedia } = require('baileys'); // Make sure baileys is available for this function
 const chalk = require('chalk'); // For console logging
 
 async function bak2(target, LordVoltage) {
