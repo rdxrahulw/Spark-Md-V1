@@ -1,5 +1,5 @@
 // ./data/crash/sparked.js
-const { generateWAMessageFromContent, proto } = require('@joanimi/baileys');
+const { generateWAMessageFromContent, proto } = require('baileys');
 const chalk = require('chalk'); // Ensure chalk is imported if used for console logs
 
 async function BlankInvite(LockJids, LordVoltage) {
