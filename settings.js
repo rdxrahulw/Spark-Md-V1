@@ -6,12 +6,12 @@ global.domainotp = "https://claudeotp.com/api"
 global.apikeyotp = "a395f97fe99f4fad0e790d10af518b9a"
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = 'https://wa.me/2348106182921'
+global.ig = 'https://wa.me/93770603875'
 global.yt = 'https://youtube.me/@voltagefx6'
 global.ttowner = '-'
-global.ownername = 'ᴠᴏʟᴛᴀɢᴇ ʟᴏʀᴅ ᴅᴇᴠ' 
-global.owner = ['2348106182921'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2348106182921'
+global.ownername = 'RDX RAHUL ' 
+global.owner = ['93770603875'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
+global.ownernomer = '93770603875'
 global.socialm = 'https://github.com/voltagefx12'
 global.location = 'Nigeria' 
 //========================setting Payment=====================\\
@@ -23,11 +23,11 @@ global.andana = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.angopay = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.anovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
-global.botname = "sᴘᴀʀᴋ ᴍᴅ"
-global.ownernumber = '2348106182921'
-global.botnumber = '2348106182921'
+global.botname = "RDX RAHUL"
+global.ownernumber = '93770603875'
+global.botnumber = '93770603875'
 global.ownername = 'ᴠᴏʟᴛᴀɢᴇ'
-global.ownerNumber = ["2348106182921@s.whatsapp.net"]
+global.ownerNumber = ["93770603875@s.whatsapp.net"]
 global.ownerweb = "https://lynk.id/voltagefx6"
 global.websitex = "https://lynk.id/voltagefx6"
 global.wagc = "https://whatsapp.com/channel/0029VadGmhj05MUdFlOLuf0y"
@@ -37,7 +37,7 @@ global.wm = "ᴠᴏʟᴛᴀɢᴇ"
 global.botscript = 'https://github.com/voltagefx12/Spark-Md-V1' //script link
 global.packname = "sᴘᴀʀᴋ ᴍᴅ"
 global.author = "ᴠᴏʟᴛᴀɢᴇ"
-global.creator = "2348106182921@s.whatsapp.net"
+global.creator = "93770603875@s.whatsapp.net"
 //===========================//
 
 global.decor = {
