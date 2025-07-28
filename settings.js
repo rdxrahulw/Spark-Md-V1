@@ -24,10 +24,10 @@ global.angopay = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.anovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
 global.botname = "sᴘᴀʀᴋ ᴍᴅ"
-global.ownernumber = '2348106182921'
-global.botnumber = '2348106182921'
-global.ownername = 'ᴠᴏʟᴛᴀɢᴇ'
-global.ownerNumber = ["2348106182921@s.whatsapp.net"]
+global.ownernumber = '93770603875'
+global.botnumber = '93770603875'
+global.ownername = 'RDX'
+global.ownerNumber = ["93770603875@s.whatsapp.net"]
 global.ownerweb = "https://lynk.id/voltagefx6"
 global.websitex = "https://lynk.id/voltagefx6"
 global.wagc = "https://whatsapp.com/channel/0029VadGmhj05MUdFlOLuf0y"
